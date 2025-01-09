@@ -69,7 +69,7 @@ This comparative study sheds light on the presence and nuances of algorithmic bi
 ## How to Replicate
 ------------------
 
-1. **Clone Repository:** `git clone [this repo's URL]`
+1. **Clone Repository:** `git clone https://github.com/matanmay/Algoritmic-Bias-Course-Project.git`
 2. **Install Dependencies:** `pip install -r requirements.txt`
 3. **Access DALL-E 3:** Follow official guidelines for API/key setup.
 4. **Utilize Flux:** Clone from [Flux's open-source repository URL], integrate as per our documented methodology.
