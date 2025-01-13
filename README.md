@@ -53,7 +53,7 @@ This project investigates algorithmic bias in the generation of adjectives acros
 
 ## Results and Findings
 ----------------------
-TBD
+The findings revealed that both models displayed significant biases, with DALL-E 3 showing a more balanced gender representation, but both models predominantly generated images of young Caucasian individuals. This study highlights the need for more diverse training datasets and transparent bias auditing to mitigate these biases in future model development.
 
 ## Conclusion
 ----------
