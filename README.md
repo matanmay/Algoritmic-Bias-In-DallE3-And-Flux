@@ -80,20 +80,25 @@ This comparative study sheds light on the presence and nuances of algorithmic bi
 References
 [1] Rohan Naik and Besmira Nushi. “Social biases through the text-to-image generation
 lens”. In: arXiv (2023). url: https://arxiv.org/abs/2304.06034.
+
 [2] Emily M. Bender et al. “On the dangers of stochastic parrots: Can language models
 be too big? ” In: Proceedings of the 2021 ACM Conference on Fairness, Accountabil-
 ity, and Transparency (FAccT). 2021, pp. 610–623. url: https://s10251.pcdn.
 co/pdf/2021-bender-parrots.pdf.
+
 [3] Timnit Gebru et al. “Datasheets for datasets”. In: Communications of the ACM
 64.12 (2020), pp. 86–92. doi: 10.1145/3458723.
+
 [4] Inioluwa Deborah Raji et al. “Closing the AI accountability gap: Defining an end-
 to-end framework for internal algorithmic auditing”. In: Conference on Fairness,
 Accountability, and Transparency (FAT). 2020. url: https : / / arxiv . org / pdf /
 2001.00973.
+
 [5] Abeba Birhane and Vinay Uday Prabhu. “Large image datasets: A Pyrrhic win for
 computer vision?” In: Proceedings of the 2021 Conference on Fairness, Accountabil-
 ity, and Transparency. 2021, pp. 272–286. url: https://ieeexplore.ieee.org/
 document/9423393.
+
 [6] Wei Wang et al. “New job, new gender? Measuring the social bias in image generation
 models”. In: Proceedings of the 2024 ACM Conference on Fairness, Accountability,
 and Transparency (FAccT). 2024. url: https://arxiv.org/abs/2401.00763.
