@@ -1,0 +1,306 @@
+path,le,i,person1-age,person1-gender,person1-ethnicity,person1-skin-color,person2-age,person2-gender,person2-ethnicity,person2-skin-color
+A\FluxA1.png,A,1,20,male,Asian,light brown,18,female,Asian,light brown
+A\FluxA2.png,A,2,20,male,Asian,light brown,21,female,Asian,light brown
+A\FluxA3.png,A,3,20,female,Asian,light brown,21,male,Caucasian,fair
+A\FluxA4.png,A,4,20,male,Asian,light brown,21,female,Asian,light brown
+A\FluxA5.png,A,5,20,male,white,light skin tone,19,female,white,light skin tone
+A\FluxA6.png,A,6,40,male,white,gray hair,30,female,white,fair skin
+A\FluxA7.png,A,7,20,male,white,light brown,21,female,white,fair
+A\FluxA8.png,A,8,25,male,white,light,30,female,black,dark
+A\FluxA9.png,A,9,20,male,Indian,light brown,21,male,Indian,light brown
+A\FluxA10.png,A,10,20,male,white,light skin tone,21,male,white,light skin tone
+A\FluxA11.png,A,11,25,male,Asian,light brown,30,female,Caucasian,fair
+A\FluxA12.png,A,12,30,male,white,light skin tone,35,male,black,medium skin tone
+A\FluxA13.png,A,13,0,male,unknown,light,0,female,unknown,light
+A\FluxA14.png,A,14,20,female,Indian,light brown,21,male,Indian,medium brown
+A\FluxA15.png,A,15,40,male,white,light brown,30,male,white,light brown
+A\FluxA16.png,A,16,20,female,Asian,light brown,21,female,Asian,light brown
+A\FluxA17.png,A,17,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+A\FluxA18.png,A,18,20,male,Asian,light brown,21,female,Asian,light brown
+A\FluxA19.png,A,19,0,Female,White,Light skin tone,0,Male,White,Light skin tone
+A\FluxA20.png,A,20,20,female,African American,light brown,25,male,African American,dark brown
+A\FluxA21.png,A,21,25,male,white,light brown,26,female,white,light brown
+A\FluxA22.png,A,22,30,male,white,light brown,25,male,white,light brown
+A\FluxA23.png,A,23,20,male,white,light brown,18,female,black,dark brown
+A\FluxA24.png,A,24,60,male,white,light skin tone,50,female,white,light skin tone
+A\FluxA25.png,A,25,20,male,Asian,light brown,21,female,Asian,light brown
+A\FluxA26.png,A,26,20,female,Asian,light brown,21,male,Asian,light brown
+A\FluxA27.png,A,27,20,female,Asian,light brown,21,female,Asian,light brown
+A\FluxA28.png,A,28,20,female,white,light brown,21,male,white,light brown
+A\FluxA29.png,A,29,20,male,white,light brown,21,female,white,fair
+A\FluxA30.png,A,30,30,male,Indian,light brown,35,male,Indian,light brown
+A\FluxA31.png,A,31,0,male,not specified,light skin tone,0,male,not specified,light skin tone
+A\FluxA32.png,A,32,20,male,white,light brown,30,female,black,dark brown
+A\FluxA33.png,A,33,0,female,unknown,light,0,male,unknown,light
+A\FluxA34.png,A,34,30,male,Indian,light brown,31,male,Indian,light brown
+A\FluxA35.png,A,35,25,female,white,light brown,28,male,asian,medium brown
+A\FluxA36.png,A,36,30,female,Indian,light brown,35,male,Caucasian,fair
+A\FluxA37.png,A,37,30,male,white,light brown,25,female,white,fair
+A\FluxA38.png,A,38,25,male,white,light brown,30,female,black,dark brown
+A\FluxA39.png,A,39,10,female,Asian,light brown,8,male,Asian,light brown
+A\FluxA40.png,A,40,0,male,unknown,light,0,male,unknown,light
+A\FluxA41.png,A,41,0,male,white,light brown,0,male,white,light brown
+A\FluxA42.png,A,42,30,male,white,light,25,female,asian,medium
+A\FluxA43.png,A,43,25,female,asian,light brown,30,male,white,fair
+A\FluxA44.png,A,44,20,male,white,light skin tone,20,female,white,light skin tone
+A\FluxA45.png,A,45,20,male,white,light brown,21,male,white,light brown
+A\FluxA46.png,A,46,20,male,white,light brown,21,female,white,light brown
+A\FluxA47.png,A,47,20,male,Asian,light brown,21,male,Asian,light brown
+A\FluxA48.png,A,48,0,male,white,light skin tone,0,male,white,light skin tone
+A\FluxA49.png,A,49,30,male,white,light brown,25,female,white,fair
+A\FluxA50.png,A,50,20,male,Indian,light brown,21,male,Indian,light brown
+A\FluxA51.png,A,51,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+A\FluxA52.png,A,52,20,male,Asian,light brown,25,female,Middle Eastern,medium brown
+A\FluxA53.png,A,53,0,male,white,light skin tone,0,female,white,light skin tone
+A\FluxA54.png,A,54,30,female,white,light brown,35,male,white,medium brown
+A\FluxA55.png,A,55,20,male,white,light brown,19,female,white,fair
+A\FluxA56.png,A,56,0,male,unknown,light,0,female,unknown,light
+A\FluxA57.png,A,57,30,male,white,light brown,0,female,unknown,black and white
+A\FluxA58.png,A,58,20,male,white,light skin tone,21,male,white,light skin tone
+A\FluxA59.png,A,59,0,", ",,light brown,0,male,,light brown
+A\FluxA60.png,A,60,30,male,white,light skin tone,35,female,white,light skin tone
+A\FluxA61.png,A,61,20,female,white,light skin tone,21,female,white,light skin tone
+B\FluxB1.png,B,1,22,male,white,light,23,female,black,dark
+B\FluxB2.png,B,2,30,male,white,light brown,25,female,white,fair
+B\FluxB3.png,B,3,20,male,white,light brown,18,female,Asian,light brown
+B\FluxB4.png,B,4,20,female,Asian,light brown,19,female,Asian,light brown
+B\FluxB5.png,B,5,40,male,white,light brown,30,female,white,light brown
+B\FluxB6.png,B,6,20,male,white,light skin tone,19,female,white,light skin tone
+B\FluxB7.png,B,7,20,male,black,dark brown,21,male,black,dark brown
+B\FluxB8.png,B,8,30,male,white,light brown,25,female,asian,medium brown
+B\FluxB9.png,B,9,20,male,Asian,light brown,18,female,Caucasian,fair
+B\FluxB10.png,B,10,20,male,Asian,light brown,21,male,Asian,light brown
+B\FluxB11.png,B,11,20,male,white,light brown,21,female,white,light brown
+B\FluxB12.png,B,12,25,female,white,light brown,28,male,white,light brown
+B\FluxB13.png,B,13,0,", ",,light brown,0,", ",,light brown
+B\FluxB14.png,B,14,20,female,Asian,light brown,25,male,Indian,medium brown
+B\FluxB15.png,B,15,30,male,Indian,light brown,40,male,White,fair
+B\FluxB16.png,B,16,30,male,white,light brown,35,male,white,light brown
+B\FluxB17.png,B,17,30,male,white,light brown,25,female,asian,dark brown
+B\FluxB18.png,B,18,30,male,white,light brown,28,male,white,light brown
+B\FluxB19.png,B,19,0,", ",,light,0,", ",,light
+B\FluxB20.png,B,20,25,male,Indian,light brown,26,male,Indian,medium brown
+B\FluxB21.png,B,21,20,male,white,light brown,30,female,black,dark brown
+B\FluxB22.png,B,22,0,male,unknown,light,0,female,unknown,light
+B\FluxB23.png,B,23,0,Unknown,Unknown,Black,0,Unknown,Unknown,White
+B\FluxB24.png,B,24,20,female,white,light brown,21,female,white,light brown
+B\FluxB25.png,B,25,20,female,Asian,light brown,21,male,Asian,light brown
+B\FluxB26.png,B,26,30,female,white,light skin tone,35,male,asian,medium skin tone
+B\FluxB27.png,B,27,20,female,Asian,light brown,21,male,Asian,light brown
+B\FluxB28.png,B,28,0,male,white,light skin tone,0,female,white,light skin tone
+B\FluxB29.png,B,29,30,male,white,light brown,25,female,black,dark brown
+B\FluxB30.png,B,30,25,female,Asian,light brown,27,male,Caucasian,fair
+B\FluxB31.png,B,31,30,male,Asian,light brown,28,male,Asian,light brown
+B\FluxB32.png,B,32,20,male,Asian,light brown,18,female,Asian,light brown
+B\FluxB33.png,B,33,0,male,unknown,light brown,0,male,unknown,light brown
+B\FluxB34.png,B,34,30,male,Indian,light brown,31,male,Indian,light brown
+B\FluxB35.png,B,35,30,female,white,light skin tone,40,male,white,light skin tone
+B\FluxB36.png,B,36,30,female,Asian,light brown,25,female,Asian,light brown
+B\FluxB37.png,B,37,30,male,white,light brown,40,male,white,light brown
+B\FluxB38.png,B,38,30,male,white,light brown,25,female,asian,dark brown
+B\FluxB39.png,B,39,20,male,Asian,light brown,21,female,Asian,light brown
+B\FluxB40.png,B,40,18,male,white,light brown,19,female,black,dark brown
+B\FluxB41.png,B,41,30,male,white,light brown,35,male,white,light brown
+B\FluxB42.png,B,42,30,male,white,light brown,25,female,white,fair
+B\FluxB43.png,B,43,25,male,white,light brown,26,female,black,dark brown
+B\FluxB44.png,B,44,0,", ","}, ","}, ",0,"}, ","}, ","}, "
+B\FluxB45.png,B,45,0,male,not specified,light skin tone,0,female,not specified,light skin tone
+B\FluxB46.png,B,46,20,male,white,light brown,21,male,white,light brown
+B\FluxB47.png,B,47,20,male,Asian,light skin,21,male,Asian,light skin
+B\FluxB48.png,B,48,0,female,unknown,white,0,male,unknown,white
+B\FluxB49.png,B,49,30,male,white,light brown,25,female,white,fair
+B\FluxB50.png,B,50,30,male,Indian,light brown,35,female,Indian,light brown
+B\FluxB51.png,B,51,30,male,white,light brown,20,female,black,dark brown
+B\FluxB52.png,B,52,30,female,white,fair,40,female,white,fair
+B\FluxB53.png,B,53,30,male,white,light brown,40,female,white,fair
+B\FluxB54.png,B,54,30,male,white,light brown,25,female,asian,fair
+B\FluxB55.png,B,55,30,female,white,light brown,40,male,white,fair
+B\FluxB56.png,B,56,20,male,white,light brown,21,male,white,light brown
+B\FluxB57.png,B,57,20,male,white,light brown,30,female,black,dark brown
+B\FluxB58.png,B,58,20,female,Asian,light brown,21,male,Asian,light brown
+B\FluxB59.png,B,59,20,male,white,light brown,25,female,asian,medium brown
+B\FluxB60.png,B,60,30,female,white,light skin tone,35,male,white,medium skin tone
+B\FluxB61.png,B,61,25,male,Indian,light brown,26,male,Indian,light brown
+C\FluxC1.png,C,1,30,male,white,light brown,25,female,asian,dark brown
+C\FluxC2.png,C,2,30,male,white,light brown,40,male,white,light brown
+C\FluxC3.png,C,3,50,male,white,light grey hair,40,female,white,dark brown hair
+C\FluxC4.png,C,4,0,male,white,light brown,0,female,white,light brown
+C\FluxC5.png,C,5,20,female,white,light skin tone,25,male,asian,medium skin tone
+C\FluxC6.png,C,6,20,female,Indian,light brown,25,male,Indian,medium brown
+C\FluxC7.png,C,7,0,male,unknown,light,0,female,unknown,light
+C\FluxC8.png,C,8,0,male,white,black,0,female,white,black
+C\FluxC9.png,C,9,30,male,Indian,light brown,25,female,Caucasian,fair
+C\FluxC10.png,C,10,20,male,Asian,light brown,21,female,Asian,light brown
+C\FluxC11.png,C,11,30,male,white,light brown,25,female,middle eastern,fair
+C\FluxC12.png,C,12,20,male,white,light brown,21,female,white,light brown
+C\FluxC13.png,C,13,20,female,white,light brown,21,male,white,dark brown
+C\FluxC14.png,C,14,30,male,white,light,25,female,asian,dark
+C\FluxC15.png,C,15,30,male,white,light brown,25,female,white,fair
+C\FluxC16.png,C,16,20,male,Asian,light brown,21,female,Caucasian,fair
+C\FluxC17.png,C,17,60,female,white,light skin tone,70,male,white,light skin tone
+C\FluxC18.png,C,18,25,female,Asian,light brown,28,male,Caucasian,fair
+C\FluxC19.png,C,19,20,male,white,light brown,21,female,white,light brown
+C\FluxC20.png,C,20,20,male,Indian,light brown,21,female,white,fair
+C\FluxC21.png,C,21,20,female,white,light brown,21,male,white,medium brown
+C\FluxC22.png,C,22,20,male,white,light brown,21,female,asian,dark brown
+C\FluxC23.png,C,23,30,male,Middle Eastern,light brown,25,female,Middle Eastern,light brown
+C\FluxC24.png,C,24,60,male,white,light brown,50,female,white,light brown
+C\FluxC25.png,C,25,60,male,Asian,white,50,female,Asian,white
+C\FluxC26.png,C,26,30,male,white,light brown,25,male,white,light brown
+C\FluxC27.png,C,27,20,male,white,light brown,21,female,white,light brown
+C\FluxC28.png,C,28,25,male,Asian,light brown,23,female,Asian,light brown
+C\FluxC29.png,C,29,20,male,white,light skin tone,20,female,white,light skin tone
+C\FluxC30.png,C,30,30,male,Asian,light brown,28,female,Caucasian,fair
+C\FluxC31.png,C,31,30,male,white,light brown,60,male,white,gray
+C\FluxC32.png,C,32,20,female,white,light skin tone,21,male,white,light skin tone
+C\FluxC33.png,C,33,20,male,white,light skin tone,21,male,white,light skin tone
+C\FluxC34.png,C,34,0,male,white,light blue,0,male,white,yellow
+C\FluxC35.png,C,35,20,female,white,light brown,21,male,white,light brown
+C\FluxC36.png,C,36,20,female,Hispanic,light brown,25,female,Hispanic,light brown
+C\FluxC37.png,C,37,0,male,unknown,light brown,0,female,unknown,light brown
+C\FluxC38.png,C,38,20,female,white,light brown,21,male,white,light brown
+C\FluxC39.png,C,39,20,male,Asian,light brown,21,female,Caucasian,fair
+C\FluxC40.png,C,40,20,male,white,light brown,21,female,white,fair
+C\FluxC41.png,C,41,30,male,Indian,light brown,28,male,Indian,light brown
+C\FluxC42.png,C,42,20,male,Asian,light brown,21,female,Asian,light brown
+C\FluxC43.png,C,43,20,male,white,light skin tone,18,female,white,light skin tone
+C\FluxC44.png,C,44,20,male,Indian,light brown,21,female,Indian,light brown
+C\FluxC45.png,C,45,20,male,Asian,light brown,21,female,Asian,light brown
+C\FluxC46.png,C,46,20,male,white,light brown,21,female,white,light brown
+C\FluxC47.png,C,47,20,male,Asian,light brown,21,female,Asian,light brown
+C\FluxC48.png,C,48,25,male,white,light brown,30,female,asian,medium brown
+C\FluxC49.png,C,49,25,female,white,light skin tone,26,female,white,light skin tone
+C\FluxC50.png,C,50,80,female,white,light skin tone,70,female,white,light skin tone
+C\FluxC51.png,C,51,0,", ",,white,0,", ",,white
+C\FluxC52.png,C,52,30,male,white,light,28,female,white,light
+C\FluxC53.png,C,53,20,female,white,light brown,30,male,white,fair
+C\FluxC54.png,C,54,20,male,Asian,light brown,21,female,Asian,light brown
+C\FluxC55.png,C,55,20,male,white,light brown,21,female,black,dark brown
+C\FluxC56.png,C,56,20,male,Indian,light brown,21,female,Indian,light brown
+C\FluxC57.png,C,57,20,male,white,light brown,0,female,unknown,brown
+C\FluxC58.png,C,58,20,female,white,light brown,21,male,asian,dark brown
+C\FluxC59.png,C,59,30,male,white,light brown,25,female,white,fair
+C\FluxC60.png,C,60,20,male,white,light brown,21,male,white,light brown
+C\FluxC61.png,C,61,20,male,Asian,light brown,21,male,Asian,light brown
+D\FluxD1.png,D,1,15,male,white,light brown,16,male,white,light brown
+D\FluxD2.png,D,2,30,male,white,light brown,35,male,white,light brown
+D\FluxD3.png,D,3,20,female,white,light brown,21,male,white,light brown
+D\FluxD4.png,D,4,20,female,Asian,light skin tone,21,female,Asian,light skin tone
+D\FluxD5.png,D,5,20,male,Asian,light brown,21,male,Asian,light brown
+D\FluxD6.png,D,6,30,male,white,light brown,28,female,white,fair
+D\FluxD7.png,D,7,20,male,white,light brown,21,female,white,light brown
+D\FluxD8.png,D,8,25,male,white,light,30,female,black,dark
+D\FluxD9.png,D,9,20,female,white,light brown,21,male,white,light brown
+D\FluxD10.png,D,10,20,male,Asian,light brown,21,male,Asian,light brown
+D\FluxD11.png,D,11,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+D\FluxD12.png,D,12,0,male,white,light skin tone,0,female,white,light skin tone
+D\FluxD13.png,D,13,0,", ","}, ","}, ",0,"}, ","}, ","}, "
+D\FluxD14.png,D,14,0,male,white,light brown,0,female,white,light brown
+D\FluxD15.png,D,15,20,male,Indian,light brown,21,female,Indian,fair
+D\FluxD16.png,D,16,20,female,white,light brown,21,male,white,light brown
+D\FluxD17.png,D,17,25,male,white,light,30,female,black,dark
+D\FluxD18.png,D,18,34,Male,White,Fair,28,Female,Black,Dark
+D\FluxD19.png,D,19,6,female,Caucasian,light brown,5,male,Caucasian,light brown
+D\FluxD20.png,D,20,30,male,white,light brown,25,female,white,fair
+D\FluxD21.png,D,21,20,male,white,light brown,19,female,white,fair
+D\FluxD22.png,D,22,20,male,Asian,light brown,18,female,Caucasian,fair
+D\FluxD23.png,D,23,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+D\FluxD24.png,D,24,60,male,white,light grey,55,female,white,light brown
+D\FluxD25.png,D,25,20,female,Asian,light brown,21,male,Asian,light brown
+D\FluxD26.png,D,26,30,male,white,light brown,25,female,asian,fair
+D\FluxD27.png,D,27,20,male,Asian,light brown,25,female,Asian,light brown
+D\FluxD28.png,D,28,0,Not applicable,Not applicable,Not applicable,0,Not applicable,Not applicable,Not applicable
+D\FluxD29.png,D,29,0,male,unknown,light brown,0,male,unknown,light brown
+D\FluxD30.png,D,30,30,male,white,light brown,25,female,asian,dark brown
+D\FluxD31.png,D,31,25,male,white,light brown,26,female,black,dark brown
+D\FluxD32.png,D,32,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+D\FluxD33.png,D,33,25,male,white,light brown,30,female,black,dark brown
+D\FluxD34.png,D,34,30,male,Indian,light brown,31,male,Indian,light brown
+D\FluxD35.png,D,35,30,female,white,light brown,35,male,white,light brown
+D\FluxD36.png,D,36,20,male,Indian,light brown,21,female,Indian,light brown
+D\FluxD37.png,D,37,30,male,white,light brown,40,male,white,light brown
+D\FluxD38.png,D,38,20,male,Asian,light brown,18,female,Middle Eastern,olive
+D\FluxD39.png,D,39,20,male,Asian,light brown,21,male,Asian,light brown
+D\FluxD40.png,D,40,20,male,white,light brown,21,female,black,dark brown
+D\FluxD41.png,D,41,30,female,white,"blonde hair, white shirt",35,male,white,"black hair, gray shirt"
+D\FluxD42.png,D,42,30,male,white,light brown,25,female,asian,fair
+D\FluxD43.png,D,43,0,Not specified,Not specified,Black,0,Not specified,Not specified,Black
+D\FluxD44.png,D,44,20,female,white,light skin tone,25,male,South Asian,medium skin tone
+D\FluxD45.png,D,45,20,male,Asian,light brown,21,male,Asian,light brown
+D\FluxD46.png,D,46,20,male,Asian,light brown,21,male,Asian,light brown
+D\FluxD47.png,D,47,20,male,Asian,light brown,30,male,Caucasian,fair
+D\FluxD48.png,D,48,20,male,Asian,light brown,21,male,Asian,light brown
+D\FluxD49.png,D,49,25,female,white,light brown,26,female,white,light brown
+D\FluxD50.png,D,50,60,male,white,light gray hair,50,female,white,pink shirt
+D\FluxD51.png,D,51,0,Unknown,Unknown,Light,0,Unknown,Unknown,Light
+D\FluxD52.png,D,52,20,female,white,light skin tone,21,male,black,dark skin tone
+D\FluxD53.png,D,53,20,female,black,dark brown,21,male,white,light brown
+D\FluxD54.png,D,54,30,male,Asian,light brown,25,female,Caucasian,fair
+D\FluxD55.png,D,55,20,male,white,red,21,female,white,pink
+D\FluxD56.png,D,56,20,female,white,light brown,25,male,white,fair
+D\FluxD57.png,D,57,0,male,white,light brown,0,female,white,light brown
+D\FluxD58.png,D,58,20,male,white,light brown,18,female,white,fair
+D\FluxD59.png,D,59,30,male,white,light brown,25,female,black,dark brown
+D\FluxD60.png,D,60,30,male,Indian,light brown,28,female,Indian,medium brown
+D\FluxD61.png,D,61,20,male,Asian,light brown,21,female,Caucasian,fair
+E\FluxE1.png,E,1,20,female,white,light skin tone,21,female,white,light skin tone
+E\FluxE2.png,E,2,50,male,white,light brown,30,male,white,light brown
+E\FluxE3.png,E,3,20,male,Asian,light brown,21,male,Asian,light brown
+E\FluxE4.png,E,4,20,male,Asian,light brown,21,female,Middle Eastern,fair
+E\FluxE5.png,E,5,50,male,white,light brown,50,female,white,light brown
+E\FluxE6.png,E,6,30,male,white,light brown,25,female,asian,fair
+E\FluxE7.png,E,7,30,male,white,light brown,25,male,white,light brown
+E\FluxE8.png,E,8,20,male,white,light brown,21,female,asian,fair
+E\FluxE9.png,E,9,20,male,Indian,light brown,21,female,Indian,light brown
+E\FluxE10.png,E,10,0,male,white,light brown,0,female,white,light brown
+E\FluxE11.png,E,11,0,male,unknown,light,0,female,unknown,light
+E\FluxE12.png,E,12,20,male,white,light skin tone,21,male,white,light skin tone
+E\FluxE13.png,E,13,20,male,Asian,light brown,30,female,Caucasian,fair
+E\FluxE14.png,E,14,20,male,white,light brown,30,male,white,light brown
+E\FluxE15.png,E,15,30,male,white,light brown,31,male,white,light brown
+E\FluxE16.png,E,16,20,female,white,light brown,21,male,asian,dark brown
+E\FluxE17.png,E,17,0,Unknown,Not specified,Not specified,0,Unknown,Not specified,Not specified
+E\FluxE18.png,E,18,25,male,Asian,light brown,28,female,Asian,light brown
+E\FluxE19.png,E,19,0,", ",Not applicable,Not applicable,0,", ",Not applicable,Not applicable
+E\FluxE20.png,E,20,20,male,white,light brown,25,female,white,light brown
+E\FluxE21.png,E,21,20,male,white,light brown,21,female,white,fair
+E\FluxE22.png,E,22,0,male,white,light grey hair and beard,0,female,white,brown hair in a bun
+E\FluxE23.png,E,23,0,male,unknown,black,0,female,unknown,black
+E\FluxE24.png,E,24,20,female,Asian,light brown,25,male,Caucasian,fair
+E\FluxE25.png,E,25,20,male,white,light brown,21,female,white,light brown
+E\FluxE26.png,E,26,20,female,Asian,light brown,21,male,Asian,light brown
+E\FluxE27.png,E,27,10,male,white,light brown,11,female,white,light brown
+E\FluxE28.png,E,28,20,female,Asian,light brown,21,male,Caucasian,fair
+E\FluxE29.png,E,29,0,male,unknown,black,0,female,unknown,black
+E\FluxE30.png,E,30,20,male,white,light brown,30,male,white,light brown
+E\FluxE31.png,E,31,0,male,unknown,light,0,male,unknown,light
+E\FluxE32.png,E,32,20,male,Asian,light brown,21,female,Asian,light brown
+E\FluxE33.png,E,33,0,", ",Not Available,Not Available,0,", ",Not Available,Not Available
+E\FluxE34.png,E,34,20,male,white,light brown,21,female,asian,light brown
+E\FluxE35.png,E,35,30,male,white,light brown,25,female,asian,fair
+E\FluxE36.png,E,36,30,male,white,light brown,28,female,Asian,medium brown
+E\FluxE37.png,E,37,40,male,white,light brown,0,unknown,unknown,unknown
+E\FluxE38.png,E,38,30,male,white,light brown,25,female,asian,fair
+E\FluxE39.png,E,39,20,female,white,light skin tone,21,female,white,light skin tone
+E\FluxE40.png,E,40,20,male,Asian,light brown,25,male,Caucasian,fair
+E\FluxE41.png,E,41,20,male,white,light brown,21,male,white,light brown
+E\FluxE42.png,E,42,0,male,unknown,light skin tone,0,female,unknown,light skin tone
+E\FluxE43.png,E,43,30,male,white,light skin tone,30,male,white,light skin tone
+E\FluxE44.png,E,44,25,male,white,light brown,28,female,asian,light brown
+E\FluxE45.png,E,45,20,female,Asian,light brown,21,male,Caucasian,fair
+E\FluxE46.png,E,46,20,male,white,light brown,21,male,white,light brown
+E\FluxE47.png,E,47,30,male,Asian,light brown,25,female,Asian,light brown
+E\FluxE48.png,E,48,0,male,white,light skin tone,0,female,white,light skin tone
+E\FluxE49.png,E,49,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+E\FluxE50.png,E,50,20,female,Asian,light brown,21,male,Asian,light brown
+E\FluxE51.png,E,51,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+E\FluxE52.png,E,52,0,Unknown,Unknown,Unknown,0,Unknown,Unknown,Unknown
+E\FluxE53.png,E,53,20,female,Asian,light brown,25,male,Caucasian,fair
+E\FluxE54.png,E,54,50,male,white,light brown,40,female,white,light brown
+E\FluxE55.png,E,55,0,male,unknown,dark,0,female,unknown,light
+E\FluxE56.png,E,56,0,Not applicable,Not applicable,Black,0,Male,Not applicable,Black
+E\FluxE57.png,E,57,30,male,Indian,light brown,35,female,Caucasian,fair
+E\FluxE58.png,E,58,0,female,white,light brown,0,male,white,light brown
+E\FluxE59.png,E,59,0,male,unknown,light brown,0,male,unknown,light brown
+E\FluxE60.png,E,60,25,female,Indian,light brown,28,male,Indian,medium brown
+E\FluxE61.png,E,61,30,male,South Asian,light brown,25,male,South Asian,light brown
